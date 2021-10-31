@@ -32,6 +32,12 @@ Caso querira entrar em contato:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
 
+<hr />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bulacios&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bulacios&layout=compact)](https://github.com/Bulacios/github-readme-stats)
+
+
 
 
 <!--

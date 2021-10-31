@@ -37,6 +37,6 @@ Caso querira entrar em contato:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bulacios&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bulacios&layout=compact)](https://github.com/Bulacios/github-readme-stats)
 
-![Snake animation](https://github.com/Bulacios/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Bulacios/Bulacios/blob/output/github-contribution-grid-snake.svg)
 
 <hr />

@@ -43,6 +43,8 @@ Caso querira entrar em contato:
 
 [![wakatime](https://wakatime.com/badge/github/bulacios/estudos-dev-web.svg)](https://wakatime.com/badge/github/bulacios/estudos-dev-web)
 
+[![wakatime](https://wakatime.com/badge/user/c129df0b-8074-4ef3-874d-65b9c1fb2b03/project/f8bca8a1-d2ea-4c23-b2f5-41119ab92399.svg)](https://wakatime.com/badge/user/c129df0b-8074-4ef3-874d-65b9c1fb2b03/project/f8bca8a1-d2ea-4c23-b2f5-41119ab92399)
+
 
 <hr />
 

@@ -34,10 +34,10 @@ Caso querira entrar em contato:
 
 <hr />
 
-[![wakatime](https://wakatime.com/badge/user/ceb40ee4-63c5-4571-b20d-a2893d4f3b24.svg)](https://wakatime.com/@ceb40ee4-63c5-4571-b20d-a2893d4f3b24)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bulacios)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bulacios&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![wakatime](https://wakatime.com/badge/user/ceb40ee4-63c5-4571-b20d-a2893d4f3b24.svg)](https://wakatime.com/@ceb40ee4-63c5-4571-b20d-a2893d4f3b24)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bulacios)](https://github.com/anuraghazra/github-readme-stats)
 

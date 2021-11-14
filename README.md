@@ -39,8 +39,3 @@ Caso querira entrar em contato:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bulacios)](https://github.com/bulacios/github-readme-stats)
 
 
-<a href="https://github.com/bulacios/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bulacios&repo=github-readme-stats" />
-</a>
-
-

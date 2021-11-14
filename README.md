@@ -41,6 +41,8 @@ Caso querira entrar em contato:
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wbulacios)](https://github.com/anuraghazra/github-readme-stats)
 
+[![wakatime](https://wakatime.com/badge/github/bulacios/estudos-dev-web.svg)](https://wakatime.com/badge/github/bulacios/estudos-dev-web)
+
 
 <hr />
 

@@ -36,7 +36,7 @@ Caso querira entrar em contato:
    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bulacios)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=bulacios&show_icons=true" />
 
 <img src="https://wakatime.com/share/@wbulacios/0b2da2ec-6a43-4cfa-82b7-6c75bd5c31f2.svg" width="400" height="400" />
 

@@ -40,7 +40,7 @@ Caso querira entrar em contato:
 
 [![wakatime](https://wakatime.com/badge/github/bulacios/estudos-dev-web.svg)](https://wakatime.com/badge/github/bulacios/estudos-dev-web)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wbulacios)](https://github.com/anuraghazra/github-readme-stats)
+[![wbulacios's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wbulacios)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@wbulacios)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -35,11 +35,8 @@ Caso querira entrar em contato:
 <hr />
 
 <hr>
-<details>
-  <summary>Estatísticas GitHub</summary>
-     
+    
     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bulacios)](https://github.com/anuraghazra/github-readme-stats)
   
-</details>
 <hr />
 

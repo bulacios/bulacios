@@ -38,7 +38,9 @@ Caso querira entrar em contato:
 <details>
   <summary>Estatísticas GitHub</summary>
   <p align = "center">
+    
     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  
   </p>
 </details>
 <hr />

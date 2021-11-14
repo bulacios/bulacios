@@ -34,11 +34,13 @@ Caso querira entrar em contato:
 
 <hr />
 
-[![bulacios GitHub stats](https://github-readme-stats.vercel.app/api?username=bulacios&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![bulacios GitHub stats](https://github-readme-stats.vercel.app/api?username=bulacios&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bulacios)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bulacios&repo=github-readme-stats" />
+</a>
 
 

@@ -21,7 +21,7 @@ Caso querira entrar em contato:
 </a>
 
 <a href="https://www.facebook.com/wallace.bulacios/">
-  <img alt="Bulacios-facebook" width="40px" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536394.png" style="max-width:100%; margin: 0 2px;">
+  <img alt="Bulacios-facebook" width="40px" src="https://cdn-icons.flaticon.com/png/128/2504/premium/2504903.png?token=exp=1636897383~hmac=2fc614de81c2c05ba3e8360072e1be60" style="max-width:100%; margin: 0 2px;">
 </a>
 
 <hr />

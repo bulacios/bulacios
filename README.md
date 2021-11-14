@@ -34,10 +34,7 @@ Caso querira entrar em contato:
 
 <hr />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bulacios&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bulacios&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bulacios)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr />
 

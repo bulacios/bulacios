@@ -34,15 +34,12 @@ Caso querira entrar em contato:
 
 <hr />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bulacios)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bulacios)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![wakatime](https://wakatime.com/badge/github/bulacios/estudos-dev-web.svg)](https://wakatime.com/badge/github/bulacios/estudos-dev-web)
-
-[![wbulacios's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wbulacios)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@wbulacios)](https://github.com/anuraghazra/github-readme-stats)
-
+<hr>
+<details>
+  <summary>Estatísticas GitHub</summary>
+  <p align = "center">
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
+</details>
 <hr />
 

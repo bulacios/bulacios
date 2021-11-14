@@ -33,7 +33,12 @@ Caso querira entrar em contato:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
 
 <hr />
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bulacios&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bulacios&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bulacios)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr />
+

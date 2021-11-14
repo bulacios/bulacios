@@ -33,10 +33,8 @@ Caso querira entrar em contato:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
 
 <hr />
-
-<hr>
-    
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bulacios)](https://github.com/anuraghazra/github-readme-stats)
+   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bulacios)](https://github.com/anuraghazra/github-readme-stats)
   
-<hr />
+
 

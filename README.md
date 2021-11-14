@@ -33,7 +33,9 @@ Caso querira entrar em contato:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
 
 <hr />
-   
+
+[![bulacios GitHub stats](https://github-readme-stats.vercel.app/api?username=bulacios)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="https://github-readme-stats.vercel.app/api?username=bulacios&show_icons=true" />
 
 <img src="https://wakatime.com/share/@wbulacios/0b2da2ec-6a43-4cfa-82b7-6c75bd5c31f2.svg" width="400" height="400" />

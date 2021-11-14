@@ -17,7 +17,7 @@ Caso querira entrar em contato:
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=5562981773246&text=Ol%C3%A1%20venho%20do%20GitHub%2C%20para%20falar%20com%20voc%C3%AA!!">
-  <img alt="Bulacios -whatsapp" width="40px" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536445.png?token=exp=1635674273~hmac=05b374133708fd526202524217ac1e4f" style="max-width:100%; margin: 0 2px;">
+  <img alt="Bulacios -whatsapp" width="40px" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536445.png" style="max-width:100%; margin: 0 2px;">
 </a>
 
 <a href="https://www.facebook.com/wallace.bulacios/">

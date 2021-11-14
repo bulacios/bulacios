@@ -39,7 +39,7 @@ Caso querira entrar em contato:
 
 [![wakatime](https://wakatime.com/badge/user/ceb40ee4-63c5-4571-b20d-a2893d4f3b24.svg)](https://wakatime.com/@ceb40ee4-63c5-4571-b20d-a2893d4f3b24)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@wbulacios)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wbulacios)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <hr />

@@ -35,7 +35,8 @@ Caso querira entrar em contato:
 <hr />
 
 [![bulacios GitHub stats](https://github-readme-stats.vercel.app/api?username=bulacios&show_icons=true&theme=onedark)](https://github.com/bulacios/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bulacios)](https://github.com/bulacios/github-readme-stats)
+
+[![bulacios wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wbulacios)](https://github.com/bulacios/github-readme-stats)
 
 
